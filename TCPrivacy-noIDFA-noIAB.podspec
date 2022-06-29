@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
            Go to https://github.com/TagCommander/pods/tree/master/TCPrivacy for more details
                    DESC
   s.platform     = :ios, '8.0'
-  s.source   = { :http => "https://gitlab.tagcommander.com/mobile/pod-miror/-/raw/master/TCPrivacy/4/9/7/TCPrivacy-noIDFA-noIAB.zip" }
+  s.source   = { :http => "https://github.com/saidahakim21/Demo/raw/main/TCPrivacy-noIDFA-noIAB.zip" }
   s.preserve_paths      = 'TCPrivacy.xcframework'
   #s.public_header_files = 'TCPrivacy.framework/Headers/*.h'
   s.vendored_frameworks = 'TCPrivacy.xcframework'
